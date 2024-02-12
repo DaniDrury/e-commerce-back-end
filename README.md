@@ -4,6 +4,8 @@
 ## Description
 Completed the required models and routes to enable an e-commerce back end using node.js, express and sequelize. Users are able to send GET, POST, PUT and DELETE requests to the database to manage Categories, Products and Tags.
 
+[Submission Video](https://drive.google.com/file/d/1yt3HWEPAXI5bv0_prs1gGFmD8G0UE3_9/view)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
